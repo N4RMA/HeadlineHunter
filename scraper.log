@@ -1,0 +1,55 @@
+2023-04-17 18:54:47,343 DEBUG:Starting new HTTPS connection (1): packetstormsecurity.com:443
+2023-04-17 18:54:47,631 DEBUG:https://packetstormsecurity.com:443 "GET /news/ HTTP/1.1" 200 None
+2023-04-17 18:54:47,646 INFO:Headline: Zero Day In Google Chrome Patched: Bug Exploited In The Wild
+2023-04-17 18:54:47,646 INFO:Date: Apr 17, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Linux Kernel Logic Allowed Spectre Attack On Major Cloud Provider
+2023-04-17 18:54:47,646 INFO:Date: Apr 14, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Ether Jumps To 11-Month High In Wake Of Software Upgrade
+2023-04-17 18:54:47,646 INFO:Date: Apr 14, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Inside Look At Cybercriminal Organizations
+2023-04-17 18:54:47,646 INFO:Date: Apr 14, 2023
+2023-04-17 18:54:47,646 INFO:Headline: LinkedIn Deploys New Secure Identity Verification For All Members
+2023-04-17 18:54:47,646 INFO:Date: Apr 14, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Free Public Charging Stations May Come With A Price, Federal Agencies Warn
+2023-04-17 18:54:47,646 INFO:Date: Apr 13, 2023
+2023-04-17 18:54:47,646 INFO:Headline: European Privacy Watchdog Creates ChatGPT Task Force
+2023-04-17 18:54:47,646 INFO:Date: Apr 13, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Healthcare Sites Flooded By Fake Requests In Ongoing DDoS Attacks
+2023-04-17 18:54:47,646 INFO:Date: Apr 13, 2023
+2023-04-17 18:54:47,646 INFO:Headline: FBI: How Fake Xi Cops Prey On Chinese Nationals In The US
+2023-04-17 18:54:47,646 INFO:Date: Apr 13, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Much-Hyped Water Plant Hack Wasn't A Hack, Just User Error
+2023-04-17 18:54:47,646 INFO:Date: Apr 12, 2023
+2023-04-17 18:54:47,646 INFO:Headline: OpenAI Unleases Bug Bounty Program With Rewards Up To $20,000
+2023-04-17 18:54:47,646 INFO:Date: Apr 12, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Microsoft Patches Zero Day Under Active Attack
+2023-04-17 18:54:47,646 INFO:Date: Apr 12, 2023
+2023-04-17 18:54:47,646 INFO:Headline: QuaDream Apple Spyware Maker Just Popped Up On The Radar Again
+2023-04-17 18:54:47,646 INFO:Date: Apr 12, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Malware Campaign Infects A Million WordPress Sites Since 2017
+2023-04-17 18:54:47,646 INFO:Date: Apr 11, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Illinois Hospital Forced Into EHR Downtime After Cyberattack
+2023-04-17 18:54:47,646 INFO:Date: Apr 11, 2023
+2023-04-17 18:54:47,646 INFO:Headline: FTX's Cybersecurity Was Hilariously Bad
+2023-04-17 18:54:47,646 INFO:Date: Apr 11, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Azure Admins Warned To Disable Shared Key Access As Backdoor Attack Detailed
+2023-04-17 18:54:47,646 INFO:Date: Apr 11, 2023
+2023-04-17 18:54:47,646 INFO:Headline: MSI Hit By Cyberattack, Warns Against Installing Knock-Off Firmware
+2023-04-17 18:54:47,646 INFO:Date: Apr 10, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Dish Network Lawsuits Pile Up After Crippling Ransomware Attack
+2023-04-17 18:54:47,646 INFO:Date: Apr 10, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Nexx Fixes Vulnerability By Breaking Customers' Devices
+2023-04-17 18:54:47,646 INFO:Date: Apr 10, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Leaked Pentagon Documents Provide Rare Window Into Depth Of US Intelligence On Allies And Foes
+2023-04-17 18:54:47,646 INFO:Date: Apr 10, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Vimeo To Pay $2.25M In AI-Related Biometric Privacy Lawsuit
+2023-04-17 18:54:47,646 INFO:Date: Apr 10, 2023
+2023-04-17 18:54:47,646 INFO:Headline: ACRO Yanks Portal Offline Amid Cyber Security Incident
+2023-04-17 18:54:47,646 INFO:Date: Apr  6, 2023
+2023-04-17 18:54:47,646 INFO:Headline: Robin Hood Hacker Suspected Of Selling Stolen Info Cuffed
+2023-04-17 18:54:47,646 INFO:Date: Apr  6, 2023
+2023-04-17 18:54:47,646 INFO:Headline: CAN Do Attitude: How Thieves Steal Cars Using Network Bus
+2023-04-17 18:54:47,646 INFO:Date: Apr  6, 2023
+2023-04-17 18:54:47,646 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-17 18:54:47,646 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-17 18:54:47,646 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
