@@ -2,11 +2,11 @@ import requests
 import logging
 from bs4 import BeautifulSoup
 
-
 logging.basicConfig(filename='scraper.log', level=logging.DEBUG, format='%(asctime)s %(levelname)s:%(message)s')
 
 
-def scraper():
+def packetstormsecurity_scraper():
+    news = []
     try:
         # Send a GET request to the Packet Storm Security news page
         url = "https://packetstormsecurity.com/news/"
@@ -25,8 +25,9 @@ def scraper():
                 headline = news_item.find('a', href=True, text=True)
                 date = news_item.find('dd', class_='datetime').find('a').text
                 if headline and date:
-                    logging.info(f"Headline: {headline.text.strip()}")
-                    logging.info(f"Date: {date}")
+                    news_item = {"headline": headline.text.strip(), "date": date}
+                    news.append(news_item)
+                    logging.info(f"{headline.text.strip()}, {date}")
             except AttributeError as e:
                 logging.error(f"Failed to extract headline or date: {e}")
 
@@ -35,4 +36,7 @@ def scraper():
         logging.error(f"Failed to make request: {e}")
         raise e
 
-scraper()
+    return news
+
+print(packetstormsecurity_scraper()[0]['headline'])
+print(packetstormsecurity_scraper()[0]['date'])
