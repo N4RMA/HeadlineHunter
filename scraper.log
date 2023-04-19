@@ -53,3 +53,273 @@
 2023-04-17 18:54:47,646 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
 2023-04-17 18:54:47,646 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
 2023-04-17 18:54:47,646 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:40:40,338 DEBUG:Starting new HTTPS connection (1): packetstormsecurity.com:443
+2023-04-19 13:40:40,617 DEBUG:https://packetstormsecurity.com:443 "GET /news/ HTTP/1.1" 200 None
+2023-04-19 13:40:40,640 INFO:Russian Snoops Just Love Invading Unpatched Cisco Gear, America And UK Warn, Apr 19, 2023
+2023-04-19 13:40:40,640 INFO:Four Charged With Pushing Pro-Kremlin Disinfo, Election Interference, Apr 19, 2023
+2023-04-19 13:40:40,640 INFO:NSO Group Escalates Spyware Tactics With 3 New iPhone Zero-Click Exploit Chains, Apr 19, 2023
+2023-04-19 13:40:40,640 INFO:Hikvision Denies Leaked Pentagon Spy Claim, Apr 18, 2023
+2023-04-19 13:40:40,640 INFO:New Lockbit Variant Targets MacOS, Another Relies On Conti Source Code, Apr 18, 2023
+2023-04-19 13:40:40,640 INFO:The Car Thieves Using Tech Disguised Inside Of Old Nokia Phones And Bluetooth Speakers, Apr 18, 2023
+2023-04-19 13:40:40,640 INFO:Chrome, Edge Browsers Targeted In Zaraza Bot Malware Attacks, Apr 18, 2023
+2023-04-19 13:40:40,640 INFO:Zero Day In Google Chrome Patched: Bug Exploited In The Wild, Apr 17, 2023
+2023-04-19 13:40:40,640 INFO:Linux Kernel Logic Allowed Spectre Attack On Major Cloud Provider, Apr 14, 2023
+2023-04-19 13:40:40,640 INFO:Ether Jumps To 11-Month High In Wake Of Software Upgrade, Apr 14, 2023
+2023-04-19 13:40:40,640 INFO:Inside Look At Cybercriminal Organizations, Apr 14, 2023
+2023-04-19 13:40:40,640 INFO:LinkedIn Deploys New Secure Identity Verification For All Members, Apr 14, 2023
+2023-04-19 13:40:40,640 INFO:Free Public Charging Stations May Come With A Price, Federal Agencies Warn, Apr 13, 2023
+2023-04-19 13:40:40,640 INFO:European Privacy Watchdog Creates ChatGPT Task Force, Apr 13, 2023
+2023-04-19 13:40:40,640 INFO:Healthcare Sites Flooded By Fake Requests In Ongoing DDoS Attacks, Apr 13, 2023
+2023-04-19 13:40:40,641 INFO:FBI: How Fake Xi Cops Prey On Chinese Nationals In The US, Apr 13, 2023
+2023-04-19 13:40:40,641 INFO:Much-Hyped Water Plant Hack Wasn't A Hack, Just User Error, Apr 12, 2023
+2023-04-19 13:40:40,641 INFO:OpenAI Unleases Bug Bounty Program With Rewards Up To $20,000, Apr 12, 2023
+2023-04-19 13:40:40,641 INFO:Microsoft Patches Zero Day Under Active Attack, Apr 12, 2023
+2023-04-19 13:40:40,641 INFO:QuaDream Apple Spyware Maker Just Popped Up On The Radar Again, Apr 12, 2023
+2023-04-19 13:40:40,641 INFO:Malware Campaign Infects A Million WordPress Sites Since 2017, Apr 11, 2023
+2023-04-19 13:40:40,641 INFO:Illinois Hospital Forced Into EHR Downtime After Cyberattack, Apr 11, 2023
+2023-04-19 13:40:40,641 INFO:FTX's Cybersecurity Was Hilariously Bad, Apr 11, 2023
+2023-04-19 13:40:40,641 INFO:Azure Admins Warned To Disable Shared Key Access As Backdoor Attack Detailed, Apr 11, 2023
+2023-04-19 13:40:40,641 INFO:MSI Hit By Cyberattack, Warns Against Installing Knock-Off Firmware, Apr 10, 2023
+2023-04-19 13:40:40,641 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:40:40,641 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:40:40,641 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:43:02,419 DEBUG:Starting new HTTPS connection (1): packetstormsecurity.com:443
+2023-04-19 13:43:02,786 DEBUG:https://packetstormsecurity.com:443 "GET /news/ HTTP/1.1" 200 None
+2023-04-19 13:43:02,814 INFO:Russian Snoops Just Love Invading Unpatched Cisco Gear, America And UK Warn, Apr 19, 2023
+2023-04-19 13:43:02,814 INFO:Four Charged With Pushing Pro-Kremlin Disinfo, Election Interference, Apr 19, 2023
+2023-04-19 13:43:02,814 INFO:NSO Group Escalates Spyware Tactics With 3 New iPhone Zero-Click Exploit Chains, Apr 19, 2023
+2023-04-19 13:43:02,814 INFO:Hikvision Denies Leaked Pentagon Spy Claim, Apr 18, 2023
+2023-04-19 13:43:02,814 INFO:New Lockbit Variant Targets MacOS, Another Relies On Conti Source Code, Apr 18, 2023
+2023-04-19 13:43:02,814 INFO:The Car Thieves Using Tech Disguised Inside Of Old Nokia Phones And Bluetooth Speakers, Apr 18, 2023
+2023-04-19 13:43:02,814 INFO:Chrome, Edge Browsers Targeted In Zaraza Bot Malware Attacks, Apr 18, 2023
+2023-04-19 13:43:02,814 INFO:Zero Day In Google Chrome Patched: Bug Exploited In The Wild, Apr 17, 2023
+2023-04-19 13:43:02,814 INFO:Linux Kernel Logic Allowed Spectre Attack On Major Cloud Provider, Apr 14, 2023
+2023-04-19 13:43:02,814 INFO:Ether Jumps To 11-Month High In Wake Of Software Upgrade, Apr 14, 2023
+2023-04-19 13:43:02,814 INFO:Inside Look At Cybercriminal Organizations, Apr 14, 2023
+2023-04-19 13:43:02,814 INFO:LinkedIn Deploys New Secure Identity Verification For All Members, Apr 14, 2023
+2023-04-19 13:43:02,814 INFO:Free Public Charging Stations May Come With A Price, Federal Agencies Warn, Apr 13, 2023
+2023-04-19 13:43:02,814 INFO:European Privacy Watchdog Creates ChatGPT Task Force, Apr 13, 2023
+2023-04-19 13:43:02,814 INFO:Healthcare Sites Flooded By Fake Requests In Ongoing DDoS Attacks, Apr 13, 2023
+2023-04-19 13:43:02,814 INFO:FBI: How Fake Xi Cops Prey On Chinese Nationals In The US, Apr 13, 2023
+2023-04-19 13:43:02,814 INFO:Much-Hyped Water Plant Hack Wasn't A Hack, Just User Error, Apr 12, 2023
+2023-04-19 13:43:02,815 INFO:OpenAI Unleases Bug Bounty Program With Rewards Up To $20,000, Apr 12, 2023
+2023-04-19 13:43:02,815 INFO:Microsoft Patches Zero Day Under Active Attack, Apr 12, 2023
+2023-04-19 13:43:02,815 INFO:QuaDream Apple Spyware Maker Just Popped Up On The Radar Again, Apr 12, 2023
+2023-04-19 13:43:02,815 INFO:Malware Campaign Infects A Million WordPress Sites Since 2017, Apr 11, 2023
+2023-04-19 13:43:02,815 INFO:Illinois Hospital Forced Into EHR Downtime After Cyberattack, Apr 11, 2023
+2023-04-19 13:43:02,815 INFO:FTX's Cybersecurity Was Hilariously Bad, Apr 11, 2023
+2023-04-19 13:43:02,815 INFO:Azure Admins Warned To Disable Shared Key Access As Backdoor Attack Detailed, Apr 11, 2023
+2023-04-19 13:43:02,815 INFO:MSI Hit By Cyberattack, Warns Against Installing Knock-Off Firmware, Apr 10, 2023
+2023-04-19 13:43:02,815 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:43:02,815 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:43:02,815 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:45:42,015 DEBUG:Starting new HTTPS connection (1): packetstormsecurity.com:443
+2023-04-19 13:45:42,434 DEBUG:https://packetstormsecurity.com:443 "GET /news/ HTTP/1.1" 200 None
+2023-04-19 13:45:42,462 INFO:Russian Snoops Just Love Invading Unpatched Cisco Gear, America And UK Warn, Apr 19, 2023
+2023-04-19 13:45:42,462 INFO:Four Charged With Pushing Pro-Kremlin Disinfo, Election Interference, Apr 19, 2023
+2023-04-19 13:45:42,462 INFO:NSO Group Escalates Spyware Tactics With 3 New iPhone Zero-Click Exploit Chains, Apr 19, 2023
+2023-04-19 13:45:42,462 INFO:Hikvision Denies Leaked Pentagon Spy Claim, Apr 18, 2023
+2023-04-19 13:45:42,462 INFO:New Lockbit Variant Targets MacOS, Another Relies On Conti Source Code, Apr 18, 2023
+2023-04-19 13:45:42,462 INFO:The Car Thieves Using Tech Disguised Inside Of Old Nokia Phones And Bluetooth Speakers, Apr 18, 2023
+2023-04-19 13:45:42,462 INFO:Chrome, Edge Browsers Targeted In Zaraza Bot Malware Attacks, Apr 18, 2023
+2023-04-19 13:45:42,462 INFO:Zero Day In Google Chrome Patched: Bug Exploited In The Wild, Apr 17, 2023
+2023-04-19 13:45:42,462 INFO:Linux Kernel Logic Allowed Spectre Attack On Major Cloud Provider, Apr 14, 2023
+2023-04-19 13:45:42,462 INFO:Ether Jumps To 11-Month High In Wake Of Software Upgrade, Apr 14, 2023
+2023-04-19 13:45:42,462 INFO:Inside Look At Cybercriminal Organizations, Apr 14, 2023
+2023-04-19 13:45:42,462 INFO:LinkedIn Deploys New Secure Identity Verification For All Members, Apr 14, 2023
+2023-04-19 13:45:42,462 INFO:Free Public Charging Stations May Come With A Price, Federal Agencies Warn, Apr 13, 2023
+2023-04-19 13:45:42,462 INFO:European Privacy Watchdog Creates ChatGPT Task Force, Apr 13, 2023
+2023-04-19 13:45:42,462 INFO:Healthcare Sites Flooded By Fake Requests In Ongoing DDoS Attacks, Apr 13, 2023
+2023-04-19 13:45:42,462 INFO:FBI: How Fake Xi Cops Prey On Chinese Nationals In The US, Apr 13, 2023
+2023-04-19 13:45:42,462 INFO:Much-Hyped Water Plant Hack Wasn't A Hack, Just User Error, Apr 12, 2023
+2023-04-19 13:45:42,462 INFO:OpenAI Unleases Bug Bounty Program With Rewards Up To $20,000, Apr 12, 2023
+2023-04-19 13:45:42,462 INFO:Microsoft Patches Zero Day Under Active Attack, Apr 12, 2023
+2023-04-19 13:45:42,462 INFO:QuaDream Apple Spyware Maker Just Popped Up On The Radar Again, Apr 12, 2023
+2023-04-19 13:45:42,464 INFO:Malware Campaign Infects A Million WordPress Sites Since 2017, Apr 11, 2023
+2023-04-19 13:45:42,464 INFO:Illinois Hospital Forced Into EHR Downtime After Cyberattack, Apr 11, 2023
+2023-04-19 13:45:42,464 INFO:FTX's Cybersecurity Was Hilariously Bad, Apr 11, 2023
+2023-04-19 13:45:42,464 INFO:Azure Admins Warned To Disable Shared Key Access As Backdoor Attack Detailed, Apr 11, 2023
+2023-04-19 13:45:42,464 INFO:MSI Hit By Cyberattack, Warns Against Installing Knock-Off Firmware, Apr 10, 2023
+2023-04-19 13:45:42,464 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:45:42,464 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:45:42,464 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:47:28,670 DEBUG:Starting new HTTPS connection (1): packetstormsecurity.com:443
+2023-04-19 13:47:29,058 DEBUG:https://packetstormsecurity.com:443 "GET /news/ HTTP/1.1" 200 None
+2023-04-19 13:47:29,081 INFO:Russian Snoops Just Love Invading Unpatched Cisco Gear, America And UK Warn, Apr 19, 2023
+2023-04-19 13:47:29,081 INFO:Four Charged With Pushing Pro-Kremlin Disinfo, Election Interference, Apr 19, 2023
+2023-04-19 13:47:29,081 INFO:NSO Group Escalates Spyware Tactics With 3 New iPhone Zero-Click Exploit Chains, Apr 19, 2023
+2023-04-19 13:47:29,082 INFO:Hikvision Denies Leaked Pentagon Spy Claim, Apr 18, 2023
+2023-04-19 13:47:29,082 INFO:New Lockbit Variant Targets MacOS, Another Relies On Conti Source Code, Apr 18, 2023
+2023-04-19 13:47:29,082 INFO:The Car Thieves Using Tech Disguised Inside Of Old Nokia Phones And Bluetooth Speakers, Apr 18, 2023
+2023-04-19 13:47:29,082 INFO:Chrome, Edge Browsers Targeted In Zaraza Bot Malware Attacks, Apr 18, 2023
+2023-04-19 13:47:29,082 INFO:Zero Day In Google Chrome Patched: Bug Exploited In The Wild, Apr 17, 2023
+2023-04-19 13:47:29,082 INFO:Linux Kernel Logic Allowed Spectre Attack On Major Cloud Provider, Apr 14, 2023
+2023-04-19 13:47:29,082 INFO:Ether Jumps To 11-Month High In Wake Of Software Upgrade, Apr 14, 2023
+2023-04-19 13:47:29,082 INFO:Inside Look At Cybercriminal Organizations, Apr 14, 2023
+2023-04-19 13:47:29,082 INFO:LinkedIn Deploys New Secure Identity Verification For All Members, Apr 14, 2023
+2023-04-19 13:47:29,082 INFO:Free Public Charging Stations May Come With A Price, Federal Agencies Warn, Apr 13, 2023
+2023-04-19 13:47:29,082 INFO:European Privacy Watchdog Creates ChatGPT Task Force, Apr 13, 2023
+2023-04-19 13:47:29,082 INFO:Healthcare Sites Flooded By Fake Requests In Ongoing DDoS Attacks, Apr 13, 2023
+2023-04-19 13:47:29,082 INFO:FBI: How Fake Xi Cops Prey On Chinese Nationals In The US, Apr 13, 2023
+2023-04-19 13:47:29,082 INFO:Much-Hyped Water Plant Hack Wasn't A Hack, Just User Error, Apr 12, 2023
+2023-04-19 13:47:29,082 INFO:OpenAI Unleases Bug Bounty Program With Rewards Up To $20,000, Apr 12, 2023
+2023-04-19 13:47:29,082 INFO:Microsoft Patches Zero Day Under Active Attack, Apr 12, 2023
+2023-04-19 13:47:29,082 INFO:QuaDream Apple Spyware Maker Just Popped Up On The Radar Again, Apr 12, 2023
+2023-04-19 13:47:29,082 INFO:Malware Campaign Infects A Million WordPress Sites Since 2017, Apr 11, 2023
+2023-04-19 13:47:29,082 INFO:Illinois Hospital Forced Into EHR Downtime After Cyberattack, Apr 11, 2023
+2023-04-19 13:47:29,083 INFO:FTX's Cybersecurity Was Hilariously Bad, Apr 11, 2023
+2023-04-19 13:47:29,083 INFO:Azure Admins Warned To Disable Shared Key Access As Backdoor Attack Detailed, Apr 11, 2023
+2023-04-19 13:47:29,083 INFO:MSI Hit By Cyberattack, Warns Against Installing Knock-Off Firmware, Apr 10, 2023
+2023-04-19 13:47:29,083 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:47:29,083 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:47:29,083 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:55:13,125 DEBUG:Starting new HTTPS connection (1): packetstormsecurity.com:443
+2023-04-19 13:55:13,319 DEBUG:https://packetstormsecurity.com:443 "GET /news/ HTTP/1.1" 200 None
+2023-04-19 13:55:13,342 INFO:Russian Snoops Just Love Invading Unpatched Cisco Gear, America And UK Warn, Apr 19, 2023
+2023-04-19 13:55:13,342 INFO:Four Charged With Pushing Pro-Kremlin Disinfo, Election Interference, Apr 19, 2023
+2023-04-19 13:55:13,342 INFO:NSO Group Escalates Spyware Tactics With 3 New iPhone Zero-Click Exploit Chains, Apr 19, 2023
+2023-04-19 13:55:13,342 INFO:Hikvision Denies Leaked Pentagon Spy Claim, Apr 18, 2023
+2023-04-19 13:55:13,342 INFO:New Lockbit Variant Targets MacOS, Another Relies On Conti Source Code, Apr 18, 2023
+2023-04-19 13:55:13,342 INFO:The Car Thieves Using Tech Disguised Inside Of Old Nokia Phones And Bluetooth Speakers, Apr 18, 2023
+2023-04-19 13:55:13,342 INFO:Chrome, Edge Browsers Targeted In Zaraza Bot Malware Attacks, Apr 18, 2023
+2023-04-19 13:55:13,342 INFO:Zero Day In Google Chrome Patched: Bug Exploited In The Wild, Apr 17, 2023
+2023-04-19 13:55:13,342 INFO:Linux Kernel Logic Allowed Spectre Attack On Major Cloud Provider, Apr 14, 2023
+2023-04-19 13:55:13,342 INFO:Ether Jumps To 11-Month High In Wake Of Software Upgrade, Apr 14, 2023
+2023-04-19 13:55:13,342 INFO:Inside Look At Cybercriminal Organizations, Apr 14, 2023
+2023-04-19 13:55:13,342 INFO:LinkedIn Deploys New Secure Identity Verification For All Members, Apr 14, 2023
+2023-04-19 13:55:13,342 INFO:Free Public Charging Stations May Come With A Price, Federal Agencies Warn, Apr 13, 2023
+2023-04-19 13:55:13,342 INFO:European Privacy Watchdog Creates ChatGPT Task Force, Apr 13, 2023
+2023-04-19 13:55:13,342 INFO:Healthcare Sites Flooded By Fake Requests In Ongoing DDoS Attacks, Apr 13, 2023
+2023-04-19 13:55:13,342 INFO:FBI: How Fake Xi Cops Prey On Chinese Nationals In The US, Apr 13, 2023
+2023-04-19 13:55:13,342 INFO:Much-Hyped Water Plant Hack Wasn't A Hack, Just User Error, Apr 12, 2023
+2023-04-19 13:55:13,343 INFO:OpenAI Unleases Bug Bounty Program With Rewards Up To $20,000, Apr 12, 2023
+2023-04-19 13:55:13,343 INFO:Microsoft Patches Zero Day Under Active Attack, Apr 12, 2023
+2023-04-19 13:55:13,343 INFO:QuaDream Apple Spyware Maker Just Popped Up On The Radar Again, Apr 12, 2023
+2023-04-19 13:55:13,343 INFO:Malware Campaign Infects A Million WordPress Sites Since 2017, Apr 11, 2023
+2023-04-19 13:55:13,343 INFO:Illinois Hospital Forced Into EHR Downtime After Cyberattack, Apr 11, 2023
+2023-04-19 13:55:13,343 INFO:FTX's Cybersecurity Was Hilariously Bad, Apr 11, 2023
+2023-04-19 13:55:13,343 INFO:Azure Admins Warned To Disable Shared Key Access As Backdoor Attack Detailed, Apr 11, 2023
+2023-04-19 13:55:13,343 INFO:MSI Hit By Cyberattack, Warns Against Installing Knock-Off Firmware, Apr 10, 2023
+2023-04-19 13:55:13,343 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:55:13,343 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:55:13,343 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:55:31,411 DEBUG:Starting new HTTPS connection (1): packetstormsecurity.com:443
+2023-04-19 13:55:31,632 DEBUG:https://packetstormsecurity.com:443 "GET /news/ HTTP/1.1" 200 None
+2023-04-19 13:55:31,663 INFO:Russian Snoops Just Love Invading Unpatched Cisco Gear, America And UK Warn, Apr 19, 2023
+2023-04-19 13:55:31,663 INFO:Four Charged With Pushing Pro-Kremlin Disinfo, Election Interference, Apr 19, 2023
+2023-04-19 13:55:31,663 INFO:NSO Group Escalates Spyware Tactics With 3 New iPhone Zero-Click Exploit Chains, Apr 19, 2023
+2023-04-19 13:55:31,663 INFO:Hikvision Denies Leaked Pentagon Spy Claim, Apr 18, 2023
+2023-04-19 13:55:31,663 INFO:New Lockbit Variant Targets MacOS, Another Relies On Conti Source Code, Apr 18, 2023
+2023-04-19 13:55:31,663 INFO:The Car Thieves Using Tech Disguised Inside Of Old Nokia Phones And Bluetooth Speakers, Apr 18, 2023
+2023-04-19 13:55:31,663 INFO:Chrome, Edge Browsers Targeted In Zaraza Bot Malware Attacks, Apr 18, 2023
+2023-04-19 13:55:31,663 INFO:Zero Day In Google Chrome Patched: Bug Exploited In The Wild, Apr 17, 2023
+2023-04-19 13:55:31,663 INFO:Linux Kernel Logic Allowed Spectre Attack On Major Cloud Provider, Apr 14, 2023
+2023-04-19 13:55:31,663 INFO:Ether Jumps To 11-Month High In Wake Of Software Upgrade, Apr 14, 2023
+2023-04-19 13:55:31,663 INFO:Inside Look At Cybercriminal Organizations, Apr 14, 2023
+2023-04-19 13:55:31,663 INFO:LinkedIn Deploys New Secure Identity Verification For All Members, Apr 14, 2023
+2023-04-19 13:55:31,663 INFO:Free Public Charging Stations May Come With A Price, Federal Agencies Warn, Apr 13, 2023
+2023-04-19 13:55:31,663 INFO:European Privacy Watchdog Creates ChatGPT Task Force, Apr 13, 2023
+2023-04-19 13:55:31,663 INFO:Healthcare Sites Flooded By Fake Requests In Ongoing DDoS Attacks, Apr 13, 2023
+2023-04-19 13:55:31,663 INFO:FBI: How Fake Xi Cops Prey On Chinese Nationals In The US, Apr 13, 2023
+2023-04-19 13:55:31,663 INFO:Much-Hyped Water Plant Hack Wasn't A Hack, Just User Error, Apr 12, 2023
+2023-04-19 13:55:31,663 INFO:OpenAI Unleases Bug Bounty Program With Rewards Up To $20,000, Apr 12, 2023
+2023-04-19 13:55:31,663 INFO:Microsoft Patches Zero Day Under Active Attack, Apr 12, 2023
+2023-04-19 13:55:31,663 INFO:QuaDream Apple Spyware Maker Just Popped Up On The Radar Again, Apr 12, 2023
+2023-04-19 13:55:31,663 INFO:Malware Campaign Infects A Million WordPress Sites Since 2017, Apr 11, 2023
+2023-04-19 13:55:31,664 INFO:Illinois Hospital Forced Into EHR Downtime After Cyberattack, Apr 11, 2023
+2023-04-19 13:55:31,664 INFO:FTX's Cybersecurity Was Hilariously Bad, Apr 11, 2023
+2023-04-19 13:55:31,664 INFO:Azure Admins Warned To Disable Shared Key Access As Backdoor Attack Detailed, Apr 11, 2023
+2023-04-19 13:55:31,664 INFO:MSI Hit By Cyberattack, Warns Against Installing Knock-Off Firmware, Apr 10, 2023
+2023-04-19 13:55:31,664 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:55:31,664 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:55:31,664 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:55:47,758 DEBUG:Starting new HTTPS connection (1): packetstormsecurity.com:443
+2023-04-19 13:55:47,979 DEBUG:https://packetstormsecurity.com:443 "GET /news/ HTTP/1.1" 200 None
+2023-04-19 13:55:48,002 INFO:Russian Snoops Just Love Invading Unpatched Cisco Gear, America And UK Warn, Apr 19, 2023
+2023-04-19 13:55:48,002 INFO:Four Charged With Pushing Pro-Kremlin Disinfo, Election Interference, Apr 19, 2023
+2023-04-19 13:55:48,002 INFO:NSO Group Escalates Spyware Tactics With 3 New iPhone Zero-Click Exploit Chains, Apr 19, 2023
+2023-04-19 13:55:48,002 INFO:Hikvision Denies Leaked Pentagon Spy Claim, Apr 18, 2023
+2023-04-19 13:55:48,002 INFO:New Lockbit Variant Targets MacOS, Another Relies On Conti Source Code, Apr 18, 2023
+2023-04-19 13:55:48,002 INFO:The Car Thieves Using Tech Disguised Inside Of Old Nokia Phones And Bluetooth Speakers, Apr 18, 2023
+2023-04-19 13:55:48,002 INFO:Chrome, Edge Browsers Targeted In Zaraza Bot Malware Attacks, Apr 18, 2023
+2023-04-19 13:55:48,002 INFO:Zero Day In Google Chrome Patched: Bug Exploited In The Wild, Apr 17, 2023
+2023-04-19 13:55:48,002 INFO:Linux Kernel Logic Allowed Spectre Attack On Major Cloud Provider, Apr 14, 2023
+2023-04-19 13:55:48,003 INFO:Ether Jumps To 11-Month High In Wake Of Software Upgrade, Apr 14, 2023
+2023-04-19 13:55:48,003 INFO:Inside Look At Cybercriminal Organizations, Apr 14, 2023
+2023-04-19 13:55:48,003 INFO:LinkedIn Deploys New Secure Identity Verification For All Members, Apr 14, 2023
+2023-04-19 13:55:48,003 INFO:Free Public Charging Stations May Come With A Price, Federal Agencies Warn, Apr 13, 2023
+2023-04-19 13:55:48,003 INFO:European Privacy Watchdog Creates ChatGPT Task Force, Apr 13, 2023
+2023-04-19 13:55:48,003 INFO:Healthcare Sites Flooded By Fake Requests In Ongoing DDoS Attacks, Apr 13, 2023
+2023-04-19 13:55:48,003 INFO:FBI: How Fake Xi Cops Prey On Chinese Nationals In The US, Apr 13, 2023
+2023-04-19 13:55:48,003 INFO:Much-Hyped Water Plant Hack Wasn't A Hack, Just User Error, Apr 12, 2023
+2023-04-19 13:55:48,003 INFO:OpenAI Unleases Bug Bounty Program With Rewards Up To $20,000, Apr 12, 2023
+2023-04-19 13:55:48,003 INFO:Microsoft Patches Zero Day Under Active Attack, Apr 12, 2023
+2023-04-19 13:55:48,003 INFO:QuaDream Apple Spyware Maker Just Popped Up On The Radar Again, Apr 12, 2023
+2023-04-19 13:55:48,003 INFO:Malware Campaign Infects A Million WordPress Sites Since 2017, Apr 11, 2023
+2023-04-19 13:55:48,003 INFO:Illinois Hospital Forced Into EHR Downtime After Cyberattack, Apr 11, 2023
+2023-04-19 13:55:48,003 INFO:FTX's Cybersecurity Was Hilariously Bad, Apr 11, 2023
+2023-04-19 13:55:48,003 INFO:Azure Admins Warned To Disable Shared Key Access As Backdoor Attack Detailed, Apr 11, 2023
+2023-04-19 13:55:48,003 INFO:MSI Hit By Cyberattack, Warns Against Installing Knock-Off Firmware, Apr 10, 2023
+2023-04-19 13:55:48,003 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:55:48,003 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:55:48,003 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:56:03,991 DEBUG:Starting new HTTPS connection (1): packetstormsecurity.com:443
+2023-04-19 13:56:04,510 DEBUG:https://packetstormsecurity.com:443 "GET /news/ HTTP/1.1" 200 None
+2023-04-19 13:56:04,557 INFO:Russian Snoops Just Love Invading Unpatched Cisco Gear, America And UK Warn, Apr 19, 2023
+2023-04-19 13:56:04,557 INFO:Four Charged With Pushing Pro-Kremlin Disinfo, Election Interference, Apr 19, 2023
+2023-04-19 13:56:04,557 INFO:NSO Group Escalates Spyware Tactics With 3 New iPhone Zero-Click Exploit Chains, Apr 19, 2023
+2023-04-19 13:56:04,557 INFO:Hikvision Denies Leaked Pentagon Spy Claim, Apr 18, 2023
+2023-04-19 13:56:04,557 INFO:New Lockbit Variant Targets MacOS, Another Relies On Conti Source Code, Apr 18, 2023
+2023-04-19 13:56:04,557 INFO:The Car Thieves Using Tech Disguised Inside Of Old Nokia Phones And Bluetooth Speakers, Apr 18, 2023
+2023-04-19 13:56:04,557 INFO:Chrome, Edge Browsers Targeted In Zaraza Bot Malware Attacks, Apr 18, 2023
+2023-04-19 13:56:04,557 INFO:Zero Day In Google Chrome Patched: Bug Exploited In The Wild, Apr 17, 2023
+2023-04-19 13:56:04,557 INFO:Linux Kernel Logic Allowed Spectre Attack On Major Cloud Provider, Apr 14, 2023
+2023-04-19 13:56:04,557 INFO:Ether Jumps To 11-Month High In Wake Of Software Upgrade, Apr 14, 2023
+2023-04-19 13:56:04,557 INFO:Inside Look At Cybercriminal Organizations, Apr 14, 2023
+2023-04-19 13:56:04,557 INFO:LinkedIn Deploys New Secure Identity Verification For All Members, Apr 14, 2023
+2023-04-19 13:56:04,557 INFO:Free Public Charging Stations May Come With A Price, Federal Agencies Warn, Apr 13, 2023
+2023-04-19 13:56:04,557 INFO:European Privacy Watchdog Creates ChatGPT Task Force, Apr 13, 2023
+2023-04-19 13:56:04,557 INFO:Healthcare Sites Flooded By Fake Requests In Ongoing DDoS Attacks, Apr 13, 2023
+2023-04-19 13:56:04,557 INFO:FBI: How Fake Xi Cops Prey On Chinese Nationals In The US, Apr 13, 2023
+2023-04-19 13:56:04,558 INFO:Much-Hyped Water Plant Hack Wasn't A Hack, Just User Error, Apr 12, 2023
+2023-04-19 13:56:04,558 INFO:OpenAI Unleases Bug Bounty Program With Rewards Up To $20,000, Apr 12, 2023
+2023-04-19 13:56:04,558 INFO:Microsoft Patches Zero Day Under Active Attack, Apr 12, 2023
+2023-04-19 13:56:04,558 INFO:QuaDream Apple Spyware Maker Just Popped Up On The Radar Again, Apr 12, 2023
+2023-04-19 13:56:04,558 INFO:Malware Campaign Infects A Million WordPress Sites Since 2017, Apr 11, 2023
+2023-04-19 13:56:04,558 INFO:Illinois Hospital Forced Into EHR Downtime After Cyberattack, Apr 11, 2023
+2023-04-19 13:56:04,558 INFO:FTX's Cybersecurity Was Hilariously Bad, Apr 11, 2023
+2023-04-19 13:56:04,558 INFO:Azure Admins Warned To Disable Shared Key Access As Backdoor Attack Detailed, Apr 11, 2023
+2023-04-19 13:56:04,558 INFO:MSI Hit By Cyberattack, Warns Against Installing Knock-Off Firmware, Apr 10, 2023
+2023-04-19 13:56:04,558 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:56:04,558 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:56:04,558 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:56:04,559 DEBUG:Starting new HTTPS connection (1): packetstormsecurity.com:443
+2023-04-19 13:56:04,754 DEBUG:https://packetstormsecurity.com:443 "GET /news/ HTTP/1.1" 200 None
+2023-04-19 13:56:04,798 INFO:Russian Snoops Just Love Invading Unpatched Cisco Gear, America And UK Warn, Apr 19, 2023
+2023-04-19 13:56:04,798 INFO:Four Charged With Pushing Pro-Kremlin Disinfo, Election Interference, Apr 19, 2023
+2023-04-19 13:56:04,798 INFO:NSO Group Escalates Spyware Tactics With 3 New iPhone Zero-Click Exploit Chains, Apr 19, 2023
+2023-04-19 13:56:04,798 INFO:Hikvision Denies Leaked Pentagon Spy Claim, Apr 18, 2023
+2023-04-19 13:56:04,798 INFO:New Lockbit Variant Targets MacOS, Another Relies On Conti Source Code, Apr 18, 2023
+2023-04-19 13:56:04,798 INFO:The Car Thieves Using Tech Disguised Inside Of Old Nokia Phones And Bluetooth Speakers, Apr 18, 2023
+2023-04-19 13:56:04,798 INFO:Chrome, Edge Browsers Targeted In Zaraza Bot Malware Attacks, Apr 18, 2023
+2023-04-19 13:56:04,798 INFO:Zero Day In Google Chrome Patched: Bug Exploited In The Wild, Apr 17, 2023
+2023-04-19 13:56:04,798 INFO:Linux Kernel Logic Allowed Spectre Attack On Major Cloud Provider, Apr 14, 2023
+2023-04-19 13:56:04,799 INFO:Ether Jumps To 11-Month High In Wake Of Software Upgrade, Apr 14, 2023
+2023-04-19 13:56:04,799 INFO:Inside Look At Cybercriminal Organizations, Apr 14, 2023
+2023-04-19 13:56:04,799 INFO:LinkedIn Deploys New Secure Identity Verification For All Members, Apr 14, 2023
+2023-04-19 13:56:04,799 INFO:Free Public Charging Stations May Come With A Price, Federal Agencies Warn, Apr 13, 2023
+2023-04-19 13:56:04,799 INFO:European Privacy Watchdog Creates ChatGPT Task Force, Apr 13, 2023
+2023-04-19 13:56:04,799 INFO:Healthcare Sites Flooded By Fake Requests In Ongoing DDoS Attacks, Apr 13, 2023
+2023-04-19 13:56:04,799 INFO:FBI: How Fake Xi Cops Prey On Chinese Nationals In The US, Apr 13, 2023
+2023-04-19 13:56:04,799 INFO:Much-Hyped Water Plant Hack Wasn't A Hack, Just User Error, Apr 12, 2023
+2023-04-19 13:56:04,799 INFO:OpenAI Unleases Bug Bounty Program With Rewards Up To $20,000, Apr 12, 2023
+2023-04-19 13:56:04,799 INFO:Microsoft Patches Zero Day Under Active Attack, Apr 12, 2023
+2023-04-19 13:56:04,799 INFO:QuaDream Apple Spyware Maker Just Popped Up On The Radar Again, Apr 12, 2023
+2023-04-19 13:56:04,799 INFO:Malware Campaign Infects A Million WordPress Sites Since 2017, Apr 11, 2023
+2023-04-19 13:56:04,799 INFO:Illinois Hospital Forced Into EHR Downtime After Cyberattack, Apr 11, 2023
+2023-04-19 13:56:04,799 INFO:FTX's Cybersecurity Was Hilariously Bad, Apr 11, 2023
+2023-04-19 13:56:04,799 INFO:Azure Admins Warned To Disable Shared Key Access As Backdoor Attack Detailed, Apr 11, 2023
+2023-04-19 13:56:04,799 INFO:MSI Hit By Cyberattack, Warns Against Installing Knock-Off Firmware, Apr 10, 2023
+2023-04-19 13:56:04,799 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:56:04,799 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
+2023-04-19 13:56:04,800 ERROR:Failed to extract headline or date: 'NoneType' object has no attribute 'find'
