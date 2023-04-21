@@ -40,6 +40,8 @@ def packetstormsecurity_scraper():
 
     return news
 
+def theregister_scraper():
+    pass
 
-# print(packetstormsecurity_scraper()[0]['headline'])
-# print(packetstormsecurity_scraper()[0]['date'])
+# TODO: add scraping function for theregister.com headlines
+
