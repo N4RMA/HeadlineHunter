@@ -1,6 +1,12 @@
+"""
+Module to retrieve the page source of a given URL using a headless Chrome browser.
+"""
+
+from typing import Any
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from typing import Any
+from webdriver_manager.chrome import ChromeDriverManager
+
 
 def get_page_source(url: str) -> str:
     """
@@ -16,20 +22,23 @@ def get_page_source(url: str) -> str:
         Exception: If the page source cannot be retrieved.
     """
     try:
-        # Set up Selenium options to run headless (without a GUI)
-        options = Options()
-        options.headless = True
+        chrome_options = Options()
+        chrome_options.headless = True
 
-        # Set up Chrome WebDriver with the options
-        driver = webdriver.Chrome(options=options)
+        chrome_driver = webdriver.Chrome(
+            executable_path=ChromeDriverManager().install(),
+            options=chrome_options
+        )
 
-        # Request the webpage and retrieve its source code
-        driver.get(url)
-        page_source = driver.page_source
+        chrome_driver.get(url)
+        page_source = chrome_driver.page_source
 
-        # Close the WebDriver and return the page source
-        driver.quit()
+        chrome_driver.quit()
         return page_source
 
     except Exception as e:
         raise Exception(f"Error retrieving page source from {url}: {e}")
+
+
+
+print(get_page_source("https://theregister.com/"))
