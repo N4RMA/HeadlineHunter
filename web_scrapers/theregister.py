@@ -1,10 +1,12 @@
 import logging
 import requests
+from utils.selenium_utils import get_page_source
 
 
 def theregister_scraper():
     # Make a request to the page you want to scrape
     url = "https://theregister.com"
+    return get_page_source(url)
     
     # Parse the HTML content of the page using Beautiful Soup
     # soup = BeautifulSoup(response.content, "html.parser")
@@ -17,3 +19,5 @@ def theregister_scraper():
     #     print(article_text)  # print the text inside the article tag
 
 
+
+print(theregister_scraper())
