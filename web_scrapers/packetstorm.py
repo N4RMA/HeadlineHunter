@@ -1,5 +1,6 @@
 import requests
 import logging
+from bs4 import BeautifulSoup
 
 
 # Define a function for scraping news from Packet Storm Security
