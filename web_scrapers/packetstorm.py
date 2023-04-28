@@ -3,6 +3,15 @@ import logging
 from bs4 import BeautifulSoup
 
 
+# Setup logging
+logging.basicConfig(
+    filename="logs/packetstormsecurity.log",
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] - %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+)
+
+
 # Define a function for scraping news from Packet Storm Security
 def packetstormsecurity_scraper():
     news = []
@@ -37,5 +46,4 @@ def packetstormsecurity_scraper():
         raise e
 
     return news
-
 
