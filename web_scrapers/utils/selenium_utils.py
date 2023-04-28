@@ -2,10 +2,20 @@
 Module to retrieve the page source of a given URL using a headless Chrome browser.
 """
 
+import logging
 from typing import Any
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
+
+
+# Setup logging
+logging.basicConfig(
+    filename="logs/webdriver.log",
+    level=logging.WARNING,
+    format="%(asctime)s [%(levelname)s] - %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+)
 
 
 def get_page_source(url: str) -> str:
@@ -39,6 +49,3 @@ def get_page_source(url: str) -> str:
     except Exception as e:
         raise Exception(f"Error retrieving page source from {url}: {e}")
 
-
-
-print(get_page_source("https://theregister.com/"))
