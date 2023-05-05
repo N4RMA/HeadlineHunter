@@ -2,6 +2,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
+
 def parse_article(element):
     data = {}
 
@@ -15,7 +16,9 @@ def parse_article(element):
     if label:
         date_and_category = label.find_all('span')
         if len(date_and_category) == 2:
-            data["date"] = date_and_category[0].text.strip()
+            # Remove "\ue802" before the date
+            date = date_and_category[0].text.strip().replace("\ue802", "")
+            data["date"] = date
             data["category"] = date_and_category[1].text.strip()
 
     # Extract summary
@@ -24,7 +27,6 @@ def parse_article(element):
         data["summary"] = summary.text.strip()
 
     return json.dumps(data, indent=4)
-
 
 def hackernews_scraper():
     url = 'https://thehackernews.com/'
