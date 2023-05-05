@@ -1,5 +1,6 @@
 import requests
 import logging
+import json
 from bs4 import BeautifulSoup
 
 
@@ -20,13 +21,10 @@ def packetstormsecurity_scraper():
         url = "https://packetstormsecurity.com/news/"
         response = requests.get(url)
         response.raise_for_status()  # Check if the request is successful
-
         # Parse the HTML content of the news page using BeautifulSoup
         soup = BeautifulSoup(response.content, 'html.parser')
-
         # Extract the news items from the page
         news_items = soup.find_all('dl')
-
         # Extract the headline and date from each news item and log them using the logging module
         for news_item in news_items:
             try:
@@ -45,5 +43,10 @@ def packetstormsecurity_scraper():
         logging.error(f"Failed to make request: {e}")
         raise e
 
-    return news
+    # Convert the news list to a JSON-formatted string
+    news_json = json.dumps(news, indent=2)
 
+    return news_json
+
+# Call the function and print the JSON-formatted news
+print(packetstormsecurity_scraper())
